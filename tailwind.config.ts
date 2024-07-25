@@ -102,8 +102,8 @@ const config = {
       animation: {
         "accordion-down": "accordion-down 0.2s ease-out",
         "accordion-up": "accordion-up 0.2s ease-out",
-        title: "title 3s ease-out forwards",
-        "fade-in": "fade-in 3s ease-in-out",
+        title: "title 2.5s ease-in-out",
+        "fade-in": "fade-in 2.5s ease-in-out",
       },
     },
   },
